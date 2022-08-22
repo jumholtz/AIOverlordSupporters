@@ -12,8 +12,8 @@ The raw datasets can be found in the [zippedData Folder](https://github.com/jumh
 Link to Jupyter
 [Notebook](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Notebook.ipynb)
 
-Link to Jupyter Notebook as a [PDF](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Jupyter%20Notebook%20PDF)
-you will need to download the PDF to view it.
+Link to Jupyter Notebook as a [PDF.](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Jupyter%20Notebook%20PDF)
+You will need to download the PDF to view it.
 
 Link to PowerPoint [Presentation](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Capstone%20Presentation.pdf)
 
