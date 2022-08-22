@@ -9,6 +9,8 @@ This file contains the links to the necessary information for understanding the 
 
 The raw datasets can be found in the [zippedData Folder](https://github.com/jumholtz/AIOverlordSupporters/tree/main/zippedData)
 
+Link to the [dataset ERD](https://github.com/jumholtz/AIOverlordSupporters/blob/main/movie_data_erd.jpeg)
+
 Link to Jupyter
 [Notebook](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Notebook.ipynb)
 
