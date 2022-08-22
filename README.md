@@ -2,8 +2,8 @@
 
 This report contains Deloitte’s recommendations regarding Computing Vision’s new movie studio. We processed and analyzed the provided datasets to understand the role of runtime, genre, and MPAA rating in relation to box office sales. We recommend that Computing Vision focus on creating movies roughly 105 to 140 minutes in length, in the action genre, and with a MPAA rating of PG or PG-13.
 
-Link to Jupyter Notebook
-[Notebook](https://github.com/jumholtz/AIOverlordSupporters/blob/main/student.ipynb)
+Link to Jupyter
+[Notebook](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Notebook.ipynb)
 
 # Business Understanding
 
@@ -26,21 +26,29 @@ MPAA Rating To retrieve the data for MPAA rating, the column “rating” was ca
 # Data Visualizations
 
 Runtime
+
 Scatter plot of the relationship between runtime and Box Office Revenue
+
 ![Runtime_Visualization](https://raw.githubusercontent.com/jumholtz/AIOverlordSupporters/main/zippedData/Images%20of%20Visualizations/RuntimeSalesLog.png)
 
 Genre
+
 Top Genres by Box Office Revenue
+
 ![Top_Genres](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Genre%20Revenue.png)
 
 Median Box Office Revenue of the top Genres
+
 ![Median_Genre](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Median%20Genre%20Revenue.png)
 
 MPAA Rating
+
 Average Box Office Revenue of MPAA Ratings
+
 ![Average_MPAA](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Average%20Revenue%20by%20MPAA%20rating.png)
 
 Median Box Office Revenue of MPAA Ratings
+
 ![Median_MPAA](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Median%20Revenue%20by%20MPAA%20rating.png)
 
 
