@@ -23,7 +23,7 @@ MPAA Rating To retrieve the data for MPAA rating, the column “rating” was ca
 # Data Visualizations
 
 Runtime
-![Runtime Visualization](RuntimeSalesLog.png)
+![Runtime_Visualization](https://raw.githubusercontent.com/jumholtz/AIOverlordSupporters/main/zippedData/Images%20of%20Visualizations/RuntimeSalesLog.png)
 
 
 # Statistical Communication
