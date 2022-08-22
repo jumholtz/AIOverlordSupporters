@@ -2,8 +2,21 @@
 
 This report contains Deloitte’s recommendations regarding Computing Vision’s new movie studio. We processed and analyzed the provided datasets to understand the role of runtime, genre, and MPAA rating in relation to box office sales. We recommend that Computing Vision focus on creating movies roughly 105 to 140 minutes in length, in the action genre, and with a MPAA rating of PG or PG-13.
 
+
+# Instructions for Navigating Repository 
+
+This file contains the links to the necessary information for understanding the project and our data. It also contains the broad business overview, a break down of our analysis, and the business recommendations we have for Computing Vision. 
+
+The raw datasets can be found in the [zippedData Folder](https://github.com/jumholtz/AIOverlordSupporters/tree/main/zippedData)
+
 Link to Jupyter
 [Notebook](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Notebook.ipynb)
+
+Link to Jupyter Notebook as a [PDF](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Jupyter%20Notebook%20PDF)
+you will need to download the PDF to view it.
+
+Link to PowerPoint [Presentation](https://github.com/jumholtz/AIOverlordSupporters/blob/main/Capstone%20Presentation.pdf)
+
 
 # Business Understanding
 
