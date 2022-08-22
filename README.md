@@ -51,7 +51,7 @@ Top Genres by Box Office Revenue
 
 Median Box Office Revenue of the top Genres
 
-![Median_Genre](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Median%20Genre%20Revenue.png)
+![Median_Genre](https://github.com/jumholtz/AIOverlordSupporters/blob/main/zippedData/Images%20of%20Visualizations/Median%20values%20of%20Genre%20Revenue.PNG)
 
 MPAA Rating
 
